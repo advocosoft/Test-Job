@@ -1,0 +1,10 @@
+{
+	"schema":{
+    	"name": "String",
+    	"email":{
+    		"type":"String",
+    		"lowercase": true
+    	}
+	},
+	"runSettersOnQuery":true
+}
